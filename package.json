@@ -2,6 +2,7 @@
 	"author": "Hector Rosales",
 	"name": "fcc-learn-npm-package-json",
 	"description": "backend repository for fcc",
+	"keywords": [ "freecodecamp", "APIs", "backend" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
